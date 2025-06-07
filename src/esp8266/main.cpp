@@ -3,8 +3,8 @@
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 
-const char *ssid = "Zarif's Room";
-const char *password = "455279090d";
+const char *ssid = "<>";
+const char *password = "<>";
 
 AsyncWebServer server(80);
 
